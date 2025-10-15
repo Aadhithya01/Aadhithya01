@@ -50,6 +50,8 @@
 
 ---
 
+[![An image of @aadhithya01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadhithya01)](https://holopin.io/@aadhithya01)
+
 ### 🔗 Connect with me:
 
 <div align="left">
