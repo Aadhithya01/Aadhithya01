@@ -1,17 +1,11 @@
 <div align="center">
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Aadhithya!;AI+Engineer!;Machine+Learning+Enthusiast!+👨‍💻;Problem+Solver!;Always+Learning!+🙂" />
+Hi, I'm Aadhithya an AI Engineer 
 </h1>
-
-<h2 align="center" style="color: #58A6FF; font-family: 'Fira Code', monospace;">
-Aadhithya | AI Engineer
-</h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
----
 
 <img align="right" alt="AI at work" width="400" src="https://media4.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.webp?cid=ecf05e47fsxj3l7jv3ojf04to2hh5e2gl28l7jlcw3731nk6&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
@@ -104,14 +98,25 @@ Aadhithya | AI Engineer
 ## 📊 GitHub Analytics
 
 <div align="center">
+<table>
+<tr>
+<td>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadhithya01&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
-<br/>
+
+</td>
+<td>
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Aadhithya01&locale=en&theme=dracula&hide_border=false&layout=compact&card_width=320&langs_count=5)
+
+</td>
+</tr>
+</table>
+
 <br/>
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aadhithya01&custom_title=Aadhithya's%20GitHub%20Activity%20Graph&bg_color=282a36&color=bd93f9&line=ff79c6&point=f8f8f2&area=true&hide_border=true"/>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -126,12 +131,24 @@ Aadhithya | AI Engineer
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 💻 Competitive Programming
+
+<div align="center">
+
+<a href="https://codolio.com/profile/Aadhi" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Codolio-Profile-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" alt="codolio profile" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🤝 Let's Connect!
 
 <div align="center">
 
 <a href="mailto:aadhithyaraja180@gmail.com" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=aadhithyaraja180@gmail.com&color=D14836&logoColor=white&labelColor=e9e9e9&style=flat"/>
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=aadhithyaraja180@gmail.com&color=D14836&logoColor=white&labelColor=e9e9e9&style=flat" />
 </a>
 
 <a href="https://in.linkedin.com/in/aadhithya-r-4b311b1b4" target="_blank">
