@@ -1,175 +1,132 @@
 <div align="center">
 
-<h1 align="center">
-Hi, I'm Aadhithya an AI Engineer 
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=32&pause=1000&color=C2570F&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aadhithya+%F0%9F%91%8B;AI+Engineer+%7C+LLM+%26+Agent+Builder;I+train+models+and+deploy+dreams+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<img align="right" alt="AI at work" width="400" src="https://media4.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.webp?cid=ecf05e47fsxj3l7jv3ojf04to2hh5e2gl28l7jlcw3731nk6&ep=v1_gifs_search&rid=giphy.webp&ct=g">
-
 ### 🧑‍💻 About Me
-- 🤖 **AI Engineer** passionate about ML and Neural Networks
-- 🌱 Currently working with **LangChain, FastAPI & AWS**
-- 💡 Love solving **real-world problems** with **AI technologies**
-- 🎯 Goal: To build **impactful AI solutions**
-- ⚡ Fun fact: **I train models and deploy dreams! 🚀**
+
+- 🤖 **AI Engineer** who turns messy business problems into production-grade AI systems
+- 🛠️ Building MCP-powered agents, RAG pipelines & LLM apps @ **SPAN Technology Services**
+- 📉 Shipped work that cut support tickets by **65%** and manual data entry by **80%**
+- 🧬 Fine-tuned Mistral-7B with QLoRA — trained 0.047% of parameters, 8x less memory
+- ⚡ Fun fact: I train models and deploy dreams 🚀
 
 ### 🔥 Current Focus
-- 📚 Building **AI/ML Applications**
-- 🧠 Exploring **Large Language Models**
-- 🏆 Contributing to **Open Source AI Projects**
-- 📖 Researching **Deep Learning Architectures**
 
-<br clear="right"/>
+- 🧠 Multi-agent orchestration & MCP tool-calling patterns
+- 📚 Fine-tuning open-weight models (QLoRA / PEFT / LoRA)
+- 🏗️ Self-hosted AI infra — Flowise, Langfuse, Ollama
+- 🌱 Always shipping something new — check my [portfolio](https://aadhithya01.github.io/Portfolio/)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 💻 Programming Languages
+**AI/ML & LLMs**
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+**Languages & Frameworks**
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-</p>
-
-### 🤖 AI/ML Frameworks & Libraries
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" />
-</p>
-
-### ⚙️ Backend & APIs
-<p>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-<img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
-<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-### 🗄️ Databases
+**Data & Databases**
 <p>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-### ☁️ Cloud & Infrastructure
+**Cloud & DevOps**
 <p>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### 🛠️ Tools & Technologies
-<p>
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-</p>
-
-### 🧠 AI/ML Tools
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangFuse-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangSmith-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangWatch-000000?style=for-the-badge" />
 </p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+## 🚀 Featured Projects
+
+**🔎 Job Hunt MCP Server & Multi-LLM Client**
+MCP server automating end-to-end job search — scores listings via ATS/keyword/seniority signals, exposes 10 tools, works across Anthropic, OpenAI, Gemini & Ollama.
+
+**📄 Multi-Format Tax Return Generator**
+Ingests tax data in 8 formats (PDF/Excel/CSV/Image/Parquet/ORC/JSON/FIRE), extracts, validates, and generates a transmit-ready return.
+
+**🧬 QLoRA Fine-Tuning on Mistral 7B**
+Full fine-tuning pipeline from scratch — 4-bit NF4 quantization, LoRA adapters, trained only 0.047% of parameters, 8x memory reduction.
+
+**🗃️ Synthetic Customer Data Generator**
+PostgreSQL + Faker utility for realistic test data — cut test-data prep time by 80%.
+
+---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-<table>
-<tr>
-<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadhithya01&theme=dracula&hide_border=true" height="165"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadhithya01&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
+<br/><br/>
 
-</td>
-<td>
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Aadhithya01&locale=en&theme=dracula&hide_border=false&layout=compact&card_width=320&langs_count=5)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aadhithya01&custom_title=Aadhithya's%20GitHub%20Activity%20Graph&bg_color=282a36&color=bd93f9&line=ff79c6&point=f8f8f2&area=true&hide_border=true"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aadhithya01&custom_title=Aadhithya's%20GitHub%20Activity&bg_color=282a36&color=bd93f9&line=ff79c6&point=f8f8f2&area=true&hide_border=true"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 Achievements & Badges
-
-<div align="center">
-
-[![An image of @aadhithya01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadhithya01)](https://holopin.io/@aadhithya01)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 💻 Competitive Programming
 
 <div align="center">
 
-<a href="https://codolio.com/profile/Aadhi" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/Codolio-Profile-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" alt="codolio profile" />
+<a href="https://codolio.com/profile/Aadhi" target="_blank">
+<img src="https://img.shields.io/badge/Codolio-Profile-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="codolio profile" />
+</a>
+<a href="https://leetcode.com/Aadhi01/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-Aadhi01-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+## 📝 Writing
+
+- [Docker Build Not Updating? The Build Cache is Probably Why.](https://medium.com/@aadhithyaraja180)
+- [Tired of Re-Embedding Manually? Here's How We Fixed It for Good](https://medium.com/@aadhithyaraja180)
+
+---
 
 ## 🤝 Let's Connect!
 
 <div align="center">
 
+<a href="https://aadhithya01.github.io/Portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-View-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 <a href="mailto:aadhithyaraja180@gmail.com" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=aadhithyaraja180@gmail.com&color=D14836&logoColor=white&labelColor=e9e9e9&style=flat" />
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://linkedin.com/in/aadhithyar" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" />
 </a>
 
-<a href="https://in.linkedin.com/in/aadhithya-r-4b311b1b4" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
+<br/><br/>
 
-</div>
+**✨ Thanks for stopping by — always up for talking AI/ML, LLM infra, or a good side project 🚀**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-### 💭 Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
----
-
-**✨ Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on AI/ML projects! 🚀**
-
-<img src="https://komarev.com/ghpvc/?username=Aadhithya01&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Aadhithya01&label=Profile%20views&color=c2570f&style=flat"/>
 
 </div>
